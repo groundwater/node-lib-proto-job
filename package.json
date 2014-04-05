@@ -1,0 +1,20 @@
+{
+  "name": "lib-proto-job",
+  "version": "0.0.0",
+  "description": "json protocol for job/task declaration",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lib-schema": "^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/groundwater/node-lib-proto-job.git"
+  },
+  "bugs": {
+    "url": "https://github.com/groundwater/node-lib-proto-job/issues"
+  },
+  "homepage": "https://github.com/groundwater/node-lib-proto-job"
+}
