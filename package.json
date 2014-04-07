@@ -1,6 +1,6 @@
 {
   "name": "lib-proto-job",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "json protocol for job/task declaration",
   "main": "index.js",
   "author": "",
