@@ -25,3 +25,5 @@ var job = proto.job.marshal({
 ## see also
 
 - [lib-job-queue](https://www.npmjs.org/package/lib-job-queue)
+- [lib-schema](https://www.npmjs.org/package/lib-schema)
+- [lib-marshal](https://www.npmjs.org/package/lib-marshal)

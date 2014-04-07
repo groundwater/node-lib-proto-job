@@ -6,9 +6,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lib-schema": "^0.1.0"
+    "lib-schema": "^0.2.0"
   },
-  "devDependencies": {},
+  "scripts": {
+    "test": "tap test"
+  },
+  "devDependencies": {
+    "tap": "^0.4.8"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/groundwater/node-lib-proto-job.git"
